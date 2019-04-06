@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-This is to build a question answering system. 
+We use Native Bayes to classfy the article class.
