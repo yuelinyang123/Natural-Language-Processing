@@ -1,4 +1,4 @@
-mport math
+import math
 import sys
 import time
 import multiprocessing as mp
