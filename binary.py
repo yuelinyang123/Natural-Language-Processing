@@ -2,7 +2,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 from scipy.linalg import norm
 import spacy
-
+## this is a try
 nlp = spacy.load('en')
 def get_binary_answer(question,target):
     voc_list=['Did','Do','May','Can','Should','Is','Are','Will','Does','Has']
